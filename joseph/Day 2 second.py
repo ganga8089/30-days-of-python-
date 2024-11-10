@@ -1,0 +1,2 @@
+text="Python is a widely used general-purpose,high level programming language.It was initially designed by Guido Van Rossum in 1991 and developed by Python Software Foundation"
+print("Is '1991' in the text?",'1991' in text)
