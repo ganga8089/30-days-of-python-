@@ -1,5 +1,5 @@
 '''author:Joswin Shaju
-date:10/11/24
+date:11/11/24
 to calculate the power of a number'''
 
 num=int(input("enter the number:"))
