@@ -1,6 +1,6 @@
 '''
 krishna 
-python program
+python program to Create a calculator that performs basic operations (addition, subtraction, multiplication, and division) on two numbers input by the user.
 '''
 num1=int(input("Enter first number:"))
 num2=int(input("Enter second number:"))
