@@ -1,6 +1,6 @@
 '''
 krishna 
-python program
+python program that will accept the base and height of a triangle and compute its area.
 '''
 
 base=int(input("Enter the base:"))
