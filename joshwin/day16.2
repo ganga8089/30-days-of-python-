@@ -1,0 +1,13 @@
+'''Author: Joshwin James
+date = 24-11-24
+'''
+number_elements=int(input("Enter the number of elements in the list:"))
+list=[]
+for i in range(number_elements):
+    element=int(input("Enter element:"))
+    list.append(element)
+print("List=",list)
+product=1
+for number in list:
+    product*=number
+print("product of elements in the list:",product)
